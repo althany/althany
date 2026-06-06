@@ -1,7 +1,7 @@
 # Abbe här...
-**IT-säkerhetsspecialist | Examen maj 2026**
+**Nyexaminerad IT-säkerhetsspecialist**
 
-Jag studerar IT-säkerhet vid **TUC Yrkeshögskola** och brinner för drift, stabilitet och säkerhet.
+Efter mina studier vid **TUC Yrkeshögskola** fortsätter min resa och utveckling inom it-säkerhet.
 
 ---
 
