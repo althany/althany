@@ -1,7 +1,7 @@
 # Abbe här...
 **Nyexaminerad IT-säkerhetsspecialist**
 
-Efter mina studier vid **TUC Yrkeshögskola** fortsätter min utveckling inom it-säkerhet som kan följas här.
+Efter mina studier vid **TUC Yrkeshögskola** fortsätter min utveckling som du kan följa här.
 
 ---
 
