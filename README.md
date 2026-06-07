@@ -5,8 +5,8 @@ Här dokumenterar jag mina projekt, hemmalabbar och den kontinuerliga utveckling
 
 ---
 
-## 📁 Utvalda Projekt
-Här är mina primära projekt. Klicka på länkarna för att läsa mer om hur de fungerar!
+## 📁 Utvalda
+Här är mina primära projekt. Klicka på länkarna för att läsa mer!
 
 * 🛡️ **[Examensarbete Jämförelse av systemsäkerhet enligt CIS Benchmarks](https://github.com/althany/Server-Hardening-Analysis)**
 * 🐛 **[Lab Guide: Exploatering av EternalBlue](https://github.com/althany/EternalBlue_Lab-Guide)**
