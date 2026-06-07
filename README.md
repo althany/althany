@@ -11,16 +11,13 @@ Här är mina primära projekt. Klicka på länkarna för att läsa mer om hur d
 * 🛡️ **[Examensarbete Jämförelse av systemsäkerhet enligt CIS Benchmarks](https://github.com/althany/Server-Hardening-Analysis)**
 * 🐛 **[Lab Guide: Exploatering av EternalBlue](https://github.com/althany/Server-Hardening-Analysis)**
 
----
-
-## 🚧 Pågående Projekt
+## 🚧 Pågående
 Här är några av de labbar och projekt jag skruvar på för tillfället, som förmodligen kommer att dyka upp som egna repositories framöver:
 
 | Status | Projekt / Labb | Stack |
 | :--- | :--- | :--- |
 | 🟢 Aktivt | **Blue Team Level 1** | `-` |
 | 🟢 Aktivt | **Uppbyggnad av SOC Hemmalabb** | `Wazuh` `Proxmox` `SIEM` |
-| 🟡 Pausad | **Port Scanner** | `Python` |
 
 ---
 
