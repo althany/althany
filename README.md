@@ -9,7 +9,7 @@ Här dokumenterar jag mina projekt, hemmalabbar och den kontinuerliga utveckling
 Här är mina primära projekt. Klicka på länkarna för att läsa mer om hur de fungerar!
 
 * 🛡️ **[Examensarbete Jämförelse av systemsäkerhet enligt CIS Benchmarks](https://github.com/althany/Server-Hardening-Analysis)**
-* 🐛 **[Lab Guide: Exploatering av EternalBlue](https://github.com/althany/Server-Hardening-Analysis)**
+* 🐛 **[Lab Guide: Exploatering av EternalBlue](https://github.com/althany/EternalBlue_Lab-Guide)**
 
 ## 🚧 Pågående
 Här är några av de labbar och projekt jag skruvar på för tillfället, som förmodligen kommer att dyka upp som egna repositories framöver:
